@@ -11,7 +11,8 @@ from tensorflow.keras.layers import Dense, Dropout, LSTM
 #%%
 #Importando Dados
 
-empresa = 'SANB4.SA'
+empresa = 'ˆBVSP'
+#empresa = 'B3SA3.SA'
 
 inicio = dt.datetime(2012,1,1)
 final = dt.datetime(2022,1,1)
